@@ -2,6 +2,8 @@
 
 Uma modlist cuidadosamente selecionada para transformar **The Elder Scrolls V: Skyrim** em uma experiência moderna, imersiva e desafiadora.
 
+link: https://mods-skyrim-bahcztcb6i8hen9caufkvj.streamlit.app/
+
 ---
 
 ## 📌 Sobre o Projeto
